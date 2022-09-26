@@ -1,5 +1,10 @@
 <template>
-  <HomePage/>
+  
+  <div>
+    <base-header />
+    <home-page />
+    <base-footer />
+  </div>
 </template>
 
 <script>
